@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="admob_app_id">ca-app-pub-6852352956102073~6269386181</string>
+<!--    <string name="admob_app_id">ca-app-pub-3926363183620778~8647109847</string>-->
+    <string name="applovin_sdk_key">x5ImfykxaMWs-ntpF6fuNGlFBtC9zBJuGcewTMs8kN_h9sVOz9HLQ0abtnmqy4iDgM8Ek_MRML7WCdvAzCNCC5</string>
+
+</resources>
