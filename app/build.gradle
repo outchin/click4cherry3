@@ -7,7 +7,7 @@ plugins {
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.app.rtodmm"
+        applicationId "com.app.clickforcherry"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 25

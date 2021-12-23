@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Read2Donate</string>
-    <string name="copyright">Copyright © 2021 Read2Donate Developer. \nAll right reserved</string>
-    <string name="explanation">အသုံးပြုသူများ၏ လုံခြုံရေးအတွက် Read2Donate App မှ မည်သည့်Data မျှသိမ်းဆည်းထားခြင်း မရှိပါ။ ရရှိထားသော ထောက်ပံ့ငွေများသည် App ကို uninstall ပြုလုပ်ပါက ပျက်သွားမည် ဖြစ်ပါသည်။ ထောက်ပံ့ငွေ (၁)သိန်းပြည့်ပါက Publisher Info တွင်ဖော်ပြထားသော Page Messenger မှ တစ်ဆင့် Certificate ထုတ်ယူနိုင်ပါသည်။ မိတ်ဆွေ ထောက်ပံ့ထားသောထောက်ပံ့ငွေများသည် သက်ဆိုင်ရာ Advertising Service ၏ရရှိနိုင်မည့် ခန့်မှန်းပမာဏ ကို ခန့်မှန်းတွက်ချက်ထာခြင်းဖြစ်၍ မြေပြင် အခြေအနေနှင့် ကွာဟနိုင်ပါသည်။</string>
+    <string name="app_name">Click4Cherry</string>
+    <string name="copyright">Copyright © 2021 Click4Cherry Developer. \nAll right reserved</string>
+    <string name="explanation">အသုံးပြုသူများ၏ လုံခြုံရေးအတွက် Click4Cherry App မှ မည်သည့်Data မျှသိမ်းဆည်းထားခြင်း မရှိပါ။ ရရှိထားသော ထောက်ပံ့ငွေများသည် App ကို uninstall ပြုလုပ်ပါက ပျက်သွားမည် ဖြစ်ပါသည်။ ထောက်ပံ့ငွေ (၁)သိန်းပြည့်ပါက Publisher Info တွင်ဖော်ပြထားသော Page Messenger မှ တစ်ဆင့် Certificate ထုတ်ယူနိုင်ပါသည်။ မိတ်ဆွေ ထောက်ပံ့ထားသောထောက်ပံ့ငွေများသည် သက်ဆိုင်ရာ Advertising Service ၏ရရှိနိုင်မည့် ခန့်မှန်းပမာဏ ကို ခန့်မှန်းတွက်ချက်ထာခြင်းဖြစ်၍ မြေပြင် အခြေအနေနှင့် ကွာဟနိုင်ပါသည်။</string>
 
     <!-- play store application link i.e more apps -->
     <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Solodroid</string>

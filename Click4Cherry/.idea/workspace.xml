@@ -27,13 +27,114 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45eca3a7-32af-4297-b7c7-976eb4e2821f" name="Default Changelist" comment="v1" />
+    <list default="true" id="45eca3a7-32af-4297-b7c7-976eb4e2821f" name="Default Changelist" comment="v1">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/ic_launcher-playstore.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/ic_launcher-web.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityCategoryDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityCategoryDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityEditProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityEditProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityForgotPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityForgotPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityFullScreenImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityFullScreenImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityImageSlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityImageSlider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityNotificationDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityNotificationDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityPostDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityPostDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityPostDetailOffline.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityPostDetailOffline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityPrivacyPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityPrivacyPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityPublisherInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityPublisherInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivitySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivitySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivitySplash.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivitySplash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityUserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityUserLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityUserRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityUserRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityVideoPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityVideoPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityWebView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityWebView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityWebViewImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityWebViewImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/ActivityYoutubePlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/ActivityYoutubePlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/AppOpenAdManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/AppOpenAdManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/activities/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/activities/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterImageSlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterImageSlider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterRecent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterRecent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterRelated.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterRelated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/adapter/AdapterVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/adapter/AdapterVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackAds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackCategoryDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackCategoryDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackPostDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackPostDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackRecent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackRecent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/callbacks/CallbackUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/callbacks/CallbackUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/fragment/FragmentCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/fragment/FragmentCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/fragment/FragmentFavorite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/fragment/FragmentFavorite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/fragment/FragmentRecent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/fragment/FragmentRecent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/fragment/FragmentVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/fragment/FragmentVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/Ads.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/Ads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/Images.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/Images.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/models/Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/models/Value.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/notification/MyFirebaseMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/notification/MyFirebaseMessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/notification/NotificationServiceExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/notification/NotificationServiceExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/rests/ApiInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/rests/ApiInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/rests/RestAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/rests/RestAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/AdNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/AdNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/AdsPref.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/AdsPref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/AppBarLayoutBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/AppBarLayoutBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/DbHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/DbHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/DelegatingPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/DelegatingPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/GDPR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/GDPR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/HttpTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/HttpTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/ItemOffsetDecoration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/ItemOffsetDecoration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/NativeTemplateStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/NativeTemplateStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/NetworkCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/NetworkCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/RoundedDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/RoundedDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/RoundedImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/RoundedImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/RtlViewPager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/RtlViewPager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/SharedPref.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/SharedPref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/TemplateView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/TemplateView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/Tools.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/app/rtodmm/utils/TouchImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/app/clickforcherry/utils/TouchImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_full_screen_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_full_screen_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_image_slider_rtl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_image_slider_rtl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main_rtl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_main_rtl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/include_native_ad_medium.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/include_native_ad_medium.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/include_native_ad_small.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/include_native_ad_small.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/include_post_detail_offline.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/include_post_detail_offline.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/include_post_detail_rtl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/include_post_detail_rtl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/lsv_item_image_slider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/lsv_item_image_slider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/ads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/home/zawwaisoe/.android/avd/Nexus_7_2012_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,7 +147,7 @@
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="207t56VUEUfbVNwZNmo2vIgWqEX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,9 +189,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="Click4Cherry.app" />
@@ -146,9 +245,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

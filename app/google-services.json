@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "201735766275",
-    "project_id": "r2d-read2donatemm",
-    "storage_bucket": "r2d-read2donatemm.appspot.com"
+    "project_number": "1062856425379",
+    "project_id": "clickforcherry",
+    "storage_bucket": "clickforcherry.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:201735766275:android:fcccb20ea3fdaa995ee936",
+        "mobilesdk_app_id": "1:1062856425379:android:c7955026b9420036d4a416",
         "android_client_info": {
-          "package_name": "com.app.r2dmm"
+          "package_name": "com.app.clickforcherry"
         }
       },
       "oauth_client": [
         {
-          "client_id": "201735766275-on0tr9pf8fq80v31hq7mh0r936pim6m1.apps.googleusercontent.com",
+          "client_id": "1062856425379-292tjqr39gdvcbu1r240elf0t99vpr54.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDUZejNuxD--kk5tLQdyrfW2HK52RjvWLc"
+          "current_key": "AIzaSyB10q6Ttsi056-XGcir0w2nY6dhzjRVR44"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "201735766275-on0tr9pf8fq80v31hq7mh0r936pim6m1.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:201735766275:android:8970f66be91e14295ee936",
-        "android_client_info": {
-          "package_name": "com.app.rtodmm"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "201735766275-on0tr9pf8fq80v31hq7mh0r936pim6m1.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDUZejNuxD--kk5tLQdyrfW2HK52RjvWLc"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "201735766275-on0tr9pf8fq80v31hq7mh0r936pim6m1.apps.googleusercontent.com",
+              "client_id": "1062856425379-292tjqr39gdvcbu1r240elf0t99vpr54.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

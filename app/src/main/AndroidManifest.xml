@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.app.rtodmm">
+    package="com.app.clickforcherry">
 
 
     <uses-permission android:name="android.permission.VIBRATE" />
@@ -18,7 +18,7 @@
 
     <application
 
-        android:name="com.app.rtodmm.activities.MyApplication"
+        android:name="com.app.clickforcherry.activities.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
 
@@ -37,7 +37,7 @@
             android:value="@string/applovin_sdk_key" />
 
         <activity
-            android:name="com.app.rtodmm.activities.ActivitySplash"
+            android:name="com.app.clickforcherry.activities.ActivitySplash"
             android:configChanges="orientation|keyboardHidden|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,7 +45,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.app.rtodmm.activities.MainActivity"
+            android:name="com.app.clickforcherry.activities.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -53,68 +53,68 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.app.rtodmm.activities.ActivityUserLogin"
+            android:name="com.app.clickforcherry.activities.ActivityUserLogin"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityUserRegister"
+            android:name="com.app.clickforcherry.activities.ActivityUserRegister"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityEditProfile"
+            android:name="com.app.clickforcherry.activities.ActivityEditProfile"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityForgotPassword"
+            android:name="com.app.clickforcherry.activities.ActivityForgotPassword"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityFullScreenImage"
+            android:name="com.app.clickforcherry.activities.ActivityFullScreenImage"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityComments"
+            android:name="com.app.clickforcherry.activities.ActivityComments"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityCategoryDetails"
+            android:name="com.app.clickforcherry.activities.ActivityCategoryDetails"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityPrivacyPolicy"
+            android:name="com.app.clickforcherry.activities.ActivityPrivacyPolicy"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityPublisherInfo"
+            android:name="com.app.clickforcherry.activities.ActivityPublisherInfo"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityYoutubePlayer"
+            android:name="com.app.clickforcherry.activities.ActivityYoutubePlayer"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityVideoPlayer"
+            android:name="com.app.clickforcherry.activities.ActivityVideoPlayer"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityWebView"
+            android:name="com.app.clickforcherry.activities.ActivityWebView"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityWebViewImage"
+            android:name="com.app.clickforcherry.activities.ActivityWebViewImage"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityPostDetail"
+            android:name="com.app.clickforcherry.activities.ActivityPostDetail"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityPostDetailOffline"
+            android:name="com.app.clickforcherry.activities.ActivityPostDetailOffline"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityNotificationDetail"
+            android:name="com.app.clickforcherry.activities.ActivityNotificationDetail"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityImageSlider"
+            android:name="com.app.clickforcherry.activities.ActivityImageSlider"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivityProfile"
+            android:name="com.app.clickforcherry.activities.ActivityProfile"
             android:configChanges="orientation|keyboardHidden|screenSize" />
         <activity
-            android:name="com.app.rtodmm.activities.ActivitySearch"
+            android:name="com.app.clickforcherry.activities.ActivitySearch"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:windowSoftInputMode="stateVisible" />
 
@@ -127,7 +127,7 @@
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
 
         <service
-            android:name="com.app.rtodmm.notification.MyFirebaseMessageService"
+            android:name="com.app.clickforcherry.notification.MyFirebaseMessageService"
             android:enabled="true"
             android:exported="false">
             <intent-filter>

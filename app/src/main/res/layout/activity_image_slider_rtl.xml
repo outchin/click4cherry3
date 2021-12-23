@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.app.rtodmm.utils.RtlViewPager
+    <com.app.clickforcherry.utils.RtlViewPager
         android:id="@+id/view_pager_image_rtl"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
